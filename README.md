@@ -4,11 +4,7 @@ Decentralized, distributed and censorship resistant forums/commenting with the h
 
 ### Get started
 
-Install yourself
-https://github.com/Cam-B/MetaNet/blob/master/docs/Install.md
-
-Or try it out at
-https://odat.xyz/metanet
+instructions coming soon
 
 
 ### How it works
