@@ -7,7 +7,15 @@ ALPHA
 
 ### Get started
 
-### how it works
+Install yourself
+https://github.com/Cam-B/MetaNet/tree/master/docs
+
+Or try it out at
+https://odat.xyz/metanet
+
+
+### How it works
+https://github.com/Cam-B/MetaNet/blob/master/docs/How
 
 ### Stack
 https://github.com/Cam-B/MetaNet/blob/master/docs/Stack
