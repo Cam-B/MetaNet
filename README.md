@@ -10,6 +10,9 @@ instructions coming soon
 ### How it works
 https://github.com/Cam-B/MetaNet/blob/master/docs/How.md
 
+### Roadmap
+https://github.com/Cam-B/MetaNet/blob/master/docs/Roadmap.md
+
 ### Stack
 https://github.com/Cam-B/MetaNet/blob/master/docs/Stack.md
 
