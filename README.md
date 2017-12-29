@@ -8,7 +8,7 @@ ALPHA
 ### Get started
 
 Install yourself
-https://github.com/Cam-B/MetaNet/tree/master/docs
+https://github.com/Cam-B/MetaNet/blob/master/docs/Install
 
 Or try it out at
 https://odat.xyz/metanet
