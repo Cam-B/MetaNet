@@ -1,9 +1,8 @@
-# MetaNet
+# MetaNet - ALPHA
 Decentralized Forums and Commenting
 
 ## Decentralized forums that work with the help of metadata.
 MetaNet provides decentralized and censorship resistant forums with already existing tools.
-ALPHA
 
 ### Get started
 
