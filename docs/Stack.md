@@ -1,6 +1,6 @@
 # Recommended tech stack for MetaNet
 
-Microformats http://microformats.org/wiki/Main_Page
+## Software
 
 Yacy https://yacy.net/en/index.html
 
@@ -14,4 +14,11 @@ Tor https://www.torproject.org
 
 I2P https://geti2p.net/en/
 
+
+## Protocols
+
+Microformats http://microformats.org/wiki/Main_Page
+
 IndieWeb https://indieweb.org/
+
+Schema http://schema.org/
