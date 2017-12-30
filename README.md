@@ -5,7 +5,7 @@ Decentralized, distributed and censorship resistant forums/commenting with the h
 ### Get started
 Install: https://github.com/Cam-B/MetaNet/blob/master/docs/How.md
 
-Try It out at our public server Odat.xyz/metanet
+Try It out at our public server http://Odat.xyz/metanet
 
 
 ### How it works
