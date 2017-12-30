@@ -3,8 +3,9 @@
 Decentralized, distributed and censorship resistant forums/commenting with the help of already existing tools
 
 ### Get started
+Install: https://github.com/Cam-B/MetaNet/blob/master/docs/How.md
 
-instructions coming soon
+Try It out at our public server Odat.xyz/metanet
 
 
 ### How it works
