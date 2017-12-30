@@ -1,4 +1,7 @@
+Installation
+
 Install Wordpress
+required plugins:
 - Install Post kinds
 - Install microformats2 compatible theme
 - Install IndieWeb
