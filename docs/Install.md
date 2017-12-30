@@ -3,8 +3,8 @@
 Get a webserver or use your desktop
 
 - Install Yacy
-- Install IPFS
-- Install Tor
+- Install IPFS and/or Freenet
+- Install Tor and/or I2p
 - Install Wordpress
 
 required plugins:
