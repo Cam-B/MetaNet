@@ -1,6 +1,9 @@
-Installation
+# Installation
 
-Install Wordpress
+Get a webserver or use your desktop
+
+- Install Yacy
+- Install Wordpress
 required plugins:
 - Install Post kinds
 - Install microformats2 compatible theme
@@ -8,8 +11,6 @@ required plugins:
 - Install Post Kinds
 - Install Semantic-Linkbacks
 - Install Webmention
-
-Install Yacy
 
 Setup your Worpress site and Start writing.
 Use Yacy search at http://yourip:8090
