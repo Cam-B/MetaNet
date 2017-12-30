@@ -1,5 +1,8 @@
 # MetaNet - ALPHA
 
+
+![](https://steemitimages.com/DQmS2bdNcJNVAYLHHA9hyj5tNs2e4Pe9o2wXrNihXKcHyLr/image.png)
+
 Decentralized, distributed and censorship resistant forums/commenting. MetaNet combines the open-source power of distributed websearch, file sharing and security. 
 
 ### Get started
