@@ -1,6 +1,6 @@
 # MetaNet - ALPHA
 
-Decentralized, distributed and censorship resistant forums/commenting with the help of already existing tools
+Decentralized, distributed and censorship resistant forums/commenting. MetaNet combines the open-source power of distributed websearch, file sharing and security. 
 
 ### Get started
 Install: https://github.com/Cam-B/MetaNet/blob/master/docs/How.md
