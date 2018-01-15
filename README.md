@@ -8,7 +8,7 @@ Decentralized, distributed and censorship resistant forums/commenting. MetaNet c
 
 Install on servers or desktops: https://github.com/Cam-B/MetaNet/blob/master/docs/Install.md
 
-Try It out at our public server: http://Odat.xyz/metanet
+Try It out at our public server: http://Odat.xyz
 
 
 #### How it works
